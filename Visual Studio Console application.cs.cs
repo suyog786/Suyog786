@@ -14,6 +14,8 @@ namespace MyWork
             {
                 if (i % 2 == 0)
                     Console.WriteLine("The Even number is:  " + i);
+                else
+                    Console.WriteLine("No not found");
             }
         }
     }
