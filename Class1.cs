@@ -6,5 +6,6 @@ public class Class1
 	{
 		Console.WriteLine("Hello");
 		Console.WriteLine("Again hello");
+		Console.WriteLine("I am suyog");
 	}
 }
